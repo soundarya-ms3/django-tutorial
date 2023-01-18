@@ -41,6 +41,6 @@ A virtual environment can be created and activated by executibg the following co
 Open the given URL in your browser.  http://127.0.0.1:8000/ 
 
 ## Demo link
-https://drive.google.com/file/d/1X_rrA6iOUF7clx307spHpEgQ-q-tUz3g/view?usp=share_link
+https://clipchamp.com/watch/zklgq2jalQl
 
 Software used for screen recording - Clipchamp
